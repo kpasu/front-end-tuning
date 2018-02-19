@@ -10,4 +10,7 @@
 
 ## スクリプト処理
 
-- forced synchronous layout
+- forced synchronous layoutに注意する
+- CSSの「:active」はIE(Edge)で重い
+- DocumentFragmentを利用
+
